@@ -38,6 +38,14 @@ The dashboard includes visualizations for:
 - Top 10 highest sales transactions.
 - Quantity sold by product category.
 
+## Dashboard Preview
+
+### Main Dashboard
+![Sales Analytics Dashboard Preview](dashboard-preview.png)
+
+### Sales Visualizations
+![Sales Visualizations](sales-visualizations.png)
+
 ## Tools and Technologies
 
 - **HTML** — structures the dashboard interface.
@@ -52,6 +60,8 @@ The dashboard includes visualizations for:
 ```text
 Sales-Analytics-Dashboard/
 ├── 200_sales_data.csv
+├── dashboard-preview.png
+├── sales-visualizations.png
 ├── index.html
 ├── sales_data.json
 ├── script.js
@@ -67,6 +77,8 @@ Sales-Analytics-Dashboard/
 | `script.js` | JavaScript code for dashboard functionality and interactivity. |
 | `style.css` | Styles and layout of the dashboard. |
 | `README.md` | Project documentation and setup instructions. |
+| `dashboard-preview.png` | Screenshot of the main dashboard interface. |
+| `sales-visualizations.png` | Screenshot of the dashboard's sales visualizations. |
 
 ## How to Run the Dashboard
 
